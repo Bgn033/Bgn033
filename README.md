@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**Bgn033/Bgn033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aminu David Miracle 
+UI/UX Designer | Passionate about User-Centered Design
+​Welcome to my portfolio! I am a designer dedicated to creating intuitive, functional, and visually engaging digital experiences.
+PORTFOLIO & LINKS
+​View My Full Portfolio: https://docs.google.com/presentation/d/1_Ofhd_pS_R6QQVJDSo3k6IWtOA9xjN-A/edit?usp=drivesdk&ouid=102061205931051388276&rtpof=true&sd=true
+​Linktree: https://linktr.ee/BGNCreative03
+​LinkedIn: https://www.linkedin.com/in/aminu-david-4588a4359
+TOOLS I WORK WITH
+​Design: Figma, Canva
+​Prototyping: Interaction Design, User Flows
+​Research: Wireframing, User Personas
+​Feel free to reach out for collaborations or project inquiries!
